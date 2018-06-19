@@ -7,3 +7,5 @@ output:
 ---
 
 Welcome to my research website.
+
+Click on this [link](colors.html.html) to see my results.
